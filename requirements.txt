@@ -1,0 +1,7 @@
+aiogram==2.25.2
+opencv-python
+pytesseract
+requests
+beautifulsoup4
+flask
+lxml
